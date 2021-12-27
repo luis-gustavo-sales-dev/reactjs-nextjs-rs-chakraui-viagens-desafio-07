@@ -6,7 +6,7 @@ export const theme = extendTheme({
         white: '#F5F8FA',
         highlight: '#FFBA08',
         heading: '#47585B',
-        text: '#47585B',
+        text: '#DADADA',
         info: '#999999'
     },
     fonts: {
@@ -16,7 +16,7 @@ export const theme = extendTheme({
     styles: {
         global: {
             body: {
-                bg: 'background',
+                bg: 'white',
                 color: 'text'
             }
         }
